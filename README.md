@@ -10,6 +10,6 @@ To run this:
 3. Open ther terminal wehre the file is located.
 4. On the terminal type "python3 main.py"
 5. Open the local address given in the terminal "127.0.0.1:5000"
-6. The Webssite is hosted on your desktop locally. 
+6. The Website is hosted on your desktop locally. 
 
 Have fun using the features and functionalties. 
