@@ -2,7 +2,7 @@
 Dyslexic Assistive Reader
 
 
-This our group, Creative Quad's term project on an Dyslexic Assitive Reader. It has 3 aspects namely, read aloud a Website, read aloud a user input paragraph, and read aloud an image or pdf. 
+This is an web based application for Dyslexic Assitive Reader. It has 3 aspects namely, read aloud a Website, read aloud a user input paragraph, and read aloud an image or pdf. 
 
 To run this: 
 1. Clone the repo. 
